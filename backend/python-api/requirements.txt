@@ -1,0 +1,4 @@
+flask~=2.1.2
+PyMySQL~=1.0.2
+app~=0.0.1
+MyApplication~=0.1.0
